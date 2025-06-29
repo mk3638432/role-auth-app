@@ -6,7 +6,7 @@ This is a small project I built using React to demonstrate **role-based authenti
 
 ## ✨ Features
 
-- Simple login form with mock users
+- Simple login form
 - Role-based routing: Employee and Manager dashboards
 - Protected routes using custom `PrivateRoute` and `RoleBasedRoute`
 - Auth state is stored in `localStorage`
